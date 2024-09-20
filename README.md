@@ -1,0 +1,1 @@
+This one’s all about predicting wine quality based on a set of chemical properties. It was fun diving into machine learning for this, experimenting with different models, and seeing how well they could predict outcomes based on the data. It's a good example of my data analytics and ML skills.
